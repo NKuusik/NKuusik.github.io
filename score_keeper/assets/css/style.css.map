@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/styles.scss"],"names":[],"mappings":"AAAA;AACA,qBAAqB","file":"assets/css/style.css","sourcesContent":[".clicked {\n  background: purple; }\n"],"sourceRoot":""}
